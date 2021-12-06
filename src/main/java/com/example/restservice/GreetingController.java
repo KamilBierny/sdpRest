@@ -18,8 +18,8 @@ public class GreetingController {
     }
 
     /*
-     * TODO: w requescie powinny byc 2 stringi, ktore nalezy dodac do siebie, zwrocic do klienta jako jeden, oraz godzine jako
-     * dodatkowe pole. kamil.biernat@globallogic.com do 21.12.21 wysle na maile prezentacje i kod.
+     * TODO: dopisac nowa metode POST w requescie powinny byc 2 stringi, ktore nalezy dodac do siebie, zwrocic do klienta jako
+     * jeden, oraz godzine jako dodatkowe pole. kamil.biernat@globallogic.com do 21.12.21
      */
 
 }
